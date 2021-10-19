@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1",
+        "name": "Cardiology",
+        "icon": "faHeartbeat",
+        "content": "All cardiologists study the disorders of the heart, but the study of adult and child heart disorders are through different training pathways. Therefore, an adult cardiologist (often simply called 'cardiologist') is inadequately trained to take care of children, and pediatric cardiologists are not trained to take care of adult heart disease. The surgical aspects are not included in cardiology and are in the domain of cardiothoracic surgery. For example, coronary artery bypass surgery (CABG), cardiopulmonary bypass and valve replacement are surgical procedures performed by surgeons, not cardiologists. However, the insertion of stents and pacemakers is performed by cardiologists."
+    },
+    {
+        "id": "2",
+        "name": "Dental",
+        "icon": "faTooth",
+        "content": "Dentistry, also known as dental medicine and oral medicine, is a branch of medicine that consists of the study, diagnosis, prevention, and treatment of diseases, disorders, and conditions of the oral cavity (the mouth), commonly in the dentition (development and arrangement of teeth) as well as the oral mucosa, and of adjacent and related structures and tissues, particularly in associated maxillofacial (jaw and facial) area.[1] The field of dentistry or dental medicine includes teeth as well as other aspects of the craniofacial complex including the temporomandibular joint and other supporting, muscular, lymphatic, nervous, vascular, and anatomical structures. The practitioner is called a dentist."
+    },
+    {
+        "id": "3",
+        "name": "Neurology",
+        "icon": "faBrain",
+        "content": "Neurology (from Greek: νεῦρον (neûron), string, nerve and the suffix -logia, study of) is a branch of medicine dealing with disorders of the nervous system. Neurology deals with the diagnosis and treatment of all categories of conditions and disease involving the central and peripheral nervous systems (and their subdivisions, the autonomic and somatic nervous systems), including their coverings, blood vessels, and all effector tissue, such as muscle.[1] Neurological practice relies heavily on the field of neuroscience, the scientific study of the nervous system."
+    },
+    {
+        "id": "4",
+        "name": "Ophthalmologist",
+        "icon": "faEye",
+        "content": "Ophthalmology (/ˌɒfθælˈmɒlədʒi/)[1] is a branch of medicine and surgery that deals with the diagnosis and treatment of disorders of the eye.[2] An ophthalmologist is a physician who specializes in ophthalmology.[3] The credentials include a degree in medicine, followed by additional four to five years of residency training in ophthalmology. Residency training programs for ophthalmology may require a one-year internship with training in internal medicine, pediatrics, or general surgery. Additional specialty training (or fellowship) may be sought in a particular aspect of eye pathology.[4] Ophthalmologists are allowed to prescribe medications to treat eye diseases, implement laser therapy, and perform surgery when needed.[5] Ophthalmologists may participate in academic research on the diagnosis and treatment for eye disorder"
+    },
+    {
+        "id": "5",
+        "name": "Obstetrician",
+        "icon": "faUser",
+        "content": "Genetic screening for Down syndrome (trisomy 21) and Edwards syndrome (trisomy 18), the national standard in the United States, is rapidly evolving away from the AFP-quad screen, done typically in the second trimester at 16–18 weeks. The newer integrated screen (formerly called F.A.S.T.E.R for First And Second Trimester Early Results) can be done at 10 plus weeks to 13 plus weeks with an ultrasound of the fetal neck (thicker nuchal skin correlates with higher risk of Down syndrome being present) and two chemicals (analytes), pregnancy-associated plasma protein A and human chorionic gonadotropin (pregnancy hormone level itself). It gives an accurate risk profile very early. A second blood screen at 15 to 20 weeks refines the risk more accurately. The cost is higher than an AFP-quad screen due to the ultrasound and second blood test, but it is quoted to have a 93% pick up rate as opposed to 88% for the standard AFP/QS. This is an evolving standard of care in the United States"
+    },
+    {
+        "id": "6",
+        "name": "Pediatrician",
+        "icon": "faChild",
+        "content": "Paediatrics (also spelled pediatrics or pædiatrics) is the branch of medicine that involves the medical care of infants, children, and adolescents. The American Academy of Pediatrics recommends people seek pediatric care through the age of 21.[1][2] In the United Kingdom, paediatrics covers patients until age 18.[3] Worldwide age limits of pediatrics have been trending up year over year.[4] A medical doctor who specializes in this area is known as a pediatrician, or paediatrician. The word pediatrics and its cognates mean healer of children; they derive from two Greek words: παῖς (pais child) and ἰατρός (iatros doctor, healer). Pediatricians work in hospitals and children's hospitals particularly those working in its subspecialties (e.g. neonatology), and as outpatient primary care physicians."
+    }
+]
